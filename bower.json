@@ -1,0 +1,11 @@
+{
+  "name": "storage",
+  "version": "0.0.1",
+  "dependencies": {
+    "requirejs": "~2.1.8",
+    "jquery": "~1.10.2",
+    "jasmine": "~2.2.0",
+    "underscore": "~1.7.0"
+  },
+  "devDependencies": {}
+}
